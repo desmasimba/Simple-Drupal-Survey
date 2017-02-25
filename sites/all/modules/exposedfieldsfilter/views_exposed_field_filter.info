@@ -1,0 +1,12 @@
+name = Views Exposed Fields Filters
+description = Custom module for exposing content fields to user to select the keyword from.
+dependencies[] = views
+files[] = views/views_handler_filters_views_exposed_field_filter.inc
+core = 7.x
+
+; Information added by Drupal.org packaging script on 2016-04-04
+version = "7.x-1.0"
+core = "7.x"
+project = "exposedfieldsfilter"
+datestamp = "1459778644"
+

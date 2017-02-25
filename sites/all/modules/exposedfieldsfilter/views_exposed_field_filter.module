@@ -1,0 +1,15 @@
+<?php
+/**
+ * @file
+ * Views exposed filter module file.
+ */
+
+/**
+ * Implements hook_views_api().
+ */
+function views_exposed_field_filter_views_api() {
+  return array(
+    'api' => 3,
+    'path' => drupal_get_path('module', 'views_exposed_field_filter') . '/views',
+  );
+}
