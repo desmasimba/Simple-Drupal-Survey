@@ -1,5 +1,4 @@
-Admin : desmond
-Pass: desmond22
+Credentials - Admin: desmond, Pass: desmond22
 
 Used 2 approches:
 
